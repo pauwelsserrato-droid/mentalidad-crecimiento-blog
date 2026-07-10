@@ -23,3 +23,11 @@ El objetivo de este proyecto es documentar un desafío técnico real utilizando 
 ## Autor
 
 Kevin Stwart Pauwels Serrato
+
+---
+
+## Estado del proyecto
+
+✅ Actividad desarrollada como parte de la Diplomatura de Mentalidad de Crecimiento y Comunicación en Entornos Digitales.
+
+Última actualización: Julio de 2026.
